@@ -1,0 +1,19 @@
+.post__image {
+  width: 100%;
+  object-fit: contain;
+}
+
+.post__text {
+  font-weight: normal;
+}
+
+.post__header {
+  display: flex;
+  align-items: center;
+  padding: 20px 10px 0 0;
+
+}
+
+.post__avatar {
+  margin: 10px;
+}
